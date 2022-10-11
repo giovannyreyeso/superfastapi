@@ -1,6 +1,7 @@
 # superfastapi
 Create a ultra fast easy api ( an ultra slim wrap from express )
 
+### Please use ONLY for TEST or FUN propouses 
 # Install
 ```bash
 npm install superfastapi
